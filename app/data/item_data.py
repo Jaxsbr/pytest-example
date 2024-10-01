@@ -1,5 +1,3 @@
-# app/data/item_data.py
-
 # Mock database: a list of items
 items_db = [
     {"id": 1, "name": "Item 1"},
